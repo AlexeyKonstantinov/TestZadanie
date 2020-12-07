@@ -1,4 +1,4 @@
-# TestZadanie \n
+# TestZadanie
 без звездочек
 
 *1 звездочка*
